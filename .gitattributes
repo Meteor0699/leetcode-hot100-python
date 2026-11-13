@@ -1,0 +1,10 @@
+# 统一换行符：仓库内统一存 LF，Windows 检出时也用 LF
+* text=auto eol=lf
+
+# 明确排除二进制
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
