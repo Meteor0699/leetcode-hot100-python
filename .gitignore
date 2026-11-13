@@ -1,0 +1,33 @@
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# 练习目录（START-HERE.md 建议自建；默认不提交进仓库）
+练习/
+exercises/
+practice/
+
+# 日志与临时文件
+*.log
+*.tmp
+tmp/
+
+# Jupyter
+.ipynb_checkpoints/
