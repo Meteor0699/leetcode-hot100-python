@@ -59,6 +59,8 @@ git clone https://github.com/Meteor0699/leetcode-hot100-python.git
 
 也可以直接在线读，在 GitHub 上点开 [`START-HERE.md`](START-HERE.md) 就行。
 
+> **只想挨个看题目和答案？** 直接双击打开 [`leetcode-100.html`](leetcode-100.html)——单文件、离线可用、不用装任何东西。100 道题按题号排列，点开就能看题意、思路、复杂度和可复制的 Python 答案；支持搜索、按难度/专题筛选、标记「已看」（进度存在本机浏览器）。网页版：https://meteor0699.github.io/leetcode-hot100-python/
+
 ### 2. 打开 `START-HERE.md`
 
 **这是入口**，里面有完整路线图、12 周计划和进度表。别从 `L01` 直接开始——先看这页，你会知道每一章该花多久、什么时候该停下来。
@@ -80,6 +82,7 @@ git clone https://github.com/Meteor0699/leetcode-hot100-python.git
 ```
 leetcode-hot100-python/
 ├── README.md                      ← 你正在看的这份
+├── leetcode-100.html              ← 100 题浏览页（双击打开，点题看答案）
 ├── START-HERE.md                  ← 教程入口，从这里开始
 ├── L01-first-steps.md             装 Python、第一行代码、变量、数字与文字、运算
 ├── L02-control-and-functions.md   判断、循环、函数——让代码「会做事」

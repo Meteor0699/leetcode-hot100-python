@@ -345,6 +345,8 @@ print(groups)
 
 一行就完成了「这个组还不存在就先建个空列表」。
 
+**更省事的写法在 [L04 §1.1](L04-toolbox.md)**：`defaultdict(list)` 把「键不存在就先建空列表」这件事交给它自动做，上面那段能直接写成 `groups["".join(sorted(word))].append(word)`，连 `setdefault` 都不用写。这里先用 `setdefault` 是因为它只依赖普通字典，不用额外导入。
+
 ### 3.2 遍历字典的三种方式
 
 ```python
