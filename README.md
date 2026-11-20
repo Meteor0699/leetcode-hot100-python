@@ -59,7 +59,7 @@ git clone https://github.com/Meteor0699/leetcode-hot100-python.git
 
 也可以直接在线读，在 GitHub 上点开 [`START-HERE.md`](START-HERE.md) 就行。
 
-> **只想挨个看题目和答案？** 直接双击打开 [`leetcode-100.html`](leetcode-100.html)——单文件、离线可用、不用装任何东西。100 道题按题号排列，点开就能看题意、思路、复杂度和可复制的 Python 答案；支持搜索、按难度/专题筛选、标记「已看」（进度存在本机浏览器）。网页版：https://meteor0699.github.io/leetcode-hot100-python/
+> **只想挨个看题目和答案？** 直接双击打开 [`leetcode-100.html`](leetcode-100.html)——单文件、离线可用、不用装任何东西。100 道题按题号排列，点开就能看 **LeetCode 官方中文题面**（含约束与示例，标注来源并附官网直达链接）、思路、复杂度和可复制的 Python 答案；支持搜索、按难度/专题筛选、标记「已看」（进度存在本机浏览器）。网页版：https://meteor0699.github.io/leetcode-hot100-python/
 
 ### 2. 打开 `START-HERE.md`
 
